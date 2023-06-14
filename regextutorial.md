@@ -95,4 +95,4 @@ This way, our regex can flexibly match a variety of phone number formatting styl
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+My name is Zach Berger and I am a student at the Columbia Coding Boot Camp. You can find be at Github at [berman619](www.github.com/berman619). 
