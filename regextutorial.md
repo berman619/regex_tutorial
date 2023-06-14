@@ -95,4 +95,4 @@ This way, our regex can flexibly match a variety of phone number formatting styl
 
 ## Author
 
-My name is Zach Berger and I am a student at the Columbia Coding Boot Camp. You can find be at Github at [berman619](www.github.com/berman619). 
+My name is Zach Berger and I am a student at the Columbia Coding Boot Camp. You can find be at Github at [berman619](www.github.com/berman619).
